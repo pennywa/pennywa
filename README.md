@@ -1,6 +1,9 @@
 ## Hi, I'm Penny 👋
 
-**Aspiring Data Scientist** | C++ • Java • Python  
+**Aspiring Data Scientist** | C++ • Java 
+
+Currently learning Python and Jupyter Notebook.
+
 <!--
 **pennywa/pennywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
