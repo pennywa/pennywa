@@ -51,13 +51,19 @@
 
 ## 📊 GitHub Stats & Contribution Breakdown
 
+## 📊 GitHub Stats & Contribution Breakdown
+
 <div align="center">
 
-<!-- Main Stats Card -->
-<img src="https://github-readme-stats-eight-now.vercel.app/api?username=pennywa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+<!-- Overall GitHub Stats + Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=pennywa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennywa&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=pennywa&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
+<br /><br />
+
+<!-- 4-Quadrant Contribution Type Card (Commits, Code Reviews, Issues, PRs) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pennywa&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=tokyonight" width="48%" />
 
 </div>
 
