@@ -1,6 +1,10 @@
 <div align="left">
 
-# 👁️ Hi, I'm Penny👋
+# 👁️ Hi, I'm Penny 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&multiline=false&width=600&height=50&lines=%F0%9F%A4%96+AI+%7C+%F0%9F%92%BB+CS+%7C+%F0%9F%93%8A+Data+Science+%7C+%E2%99%BE%EF%B8%8F+Math+%7C+%F0%9F%90%BE+ML;Eternal+Student+in+an+ephemeral+timeline.;Decoding+the+magic+of+the+universe+line+by+line.+%F0%9F%8C%8C%E2%9C%A8" alt="Typing SVG" />
+
+</div>
 
 ---
 
