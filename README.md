@@ -81,3 +81,16 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=github_dark" width="80%" />
 
 </div>
+
+---
+## 📊 GitHub Stats & Contribution Breakdown
+
+<div align="center">
+
+<!-- Alternative Stats Card (Uses github-stats-summary API) -->
+<img src="https://github-stats-summary.vercel.app/api?username=pennywa&theme=tokyonight" width="48%" alt="Penny's GitHub Stats" />
+
+<!-- Alternative Languages Card (Uses github-profile-summary-cards API) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pennywa&theme=tokyonight" width="48%" alt="Top Languages" />
+
+</div>
