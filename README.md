@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm Penny👋👁️
+# 👁️ Hi, I'm Penny👋
 
 ---
 
@@ -73,5 +73,11 @@
 
 <!-- 365-Day Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pennywa&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=github_dark" width="80%" />
 
 </div>
