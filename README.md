@@ -81,16 +81,3 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=github_dark" width="80%" />
 
 </div>
-
----
-## 📊 GitHub Stats & Contribution Breakdown
-
-<div align="center">
-
-<!-- Main Stats Mirror -->
-<img src="https://github-readme-stats.railway.app/api?username=pennywa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-
-<!-- Top Languages Mirror -->
-<img src="https://github-readme-stats.railway.app/api/top-langs/?username=pennywa&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
-
-</div>
