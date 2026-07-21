@@ -61,10 +61,6 @@
 
 <br /><br />
 
-<!-- 4-Quadrant Contribution Type Card (Commits, Code Reviews, Issues, PRs) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pennywa&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=tokyonight" width="48%" />
-
 </div>
 
 ---
@@ -73,14 +69,9 @@
 
 <div align="center">
 
-<!-- 365-Day Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pennywa&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=github_dark" width="80%" />
+<!-- 4-Quadrant Contribution Type Card (Commits, Code Reviews, Issues, PRs) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pennywa&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=tokyonight" width="48%" />
 
 </div>
 
