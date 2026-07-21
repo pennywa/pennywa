@@ -51,8 +51,6 @@
 
 ## 📊 GitHub Stats & Contribution Breakdown
 
-## 📊 GitHub Stats & Contribution Breakdown
-
 <div align="center">
 
 <!-- Overall GitHub Stats + Top Languages -->
