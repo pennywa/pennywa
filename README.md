@@ -49,6 +49,17 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<!-- 4-Quadrant Contribution Type Card (Commits, Code Reviews, Issues, PRs) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats & Contribution Breakdown
 
 <div align="center">
@@ -62,16 +73,4 @@
 <br /><br />
 
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="left">
-
-<!-- 4-Quadrant Contribution Type Card (Commits, Code Reviews, Issues, PRs) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pennywa&theme=tokyonight" width="48%" />
-
-</div>
-
 ---
